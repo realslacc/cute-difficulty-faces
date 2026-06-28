@@ -1,9 +1,14 @@
+# CuteDF
 A texture pack for Geometry Dash that alters the Difficulty Faces to make them look cuter!
 
 With mod support for:
 <ul>
 <li>More Difficulties by Uproxide</li>
 </ul>
+
+## Happy Textures is a requirement for this texture pack to function. Make sure it is installed and up-to-date before opening an issue.
+
+
 <h1>Previews</h1>
 <h2>v2</h2>
 <img src="./previews/v2/image.png">
